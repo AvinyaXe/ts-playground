@@ -18,3 +18,6 @@ npm install
 # run the quote generator
 npx tsx quote.ts
 
+## 📸 Screenshot
+
+![Screenshot of Random Quote Generator](./screenshot.png)
