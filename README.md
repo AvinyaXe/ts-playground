@@ -9,6 +9,10 @@ A simple yet slick **Random Quote Generator** built in TypeScript, powered by No
 - Fully written in TypeScript
 - Built with ❤️ in a GitHub Codespace
 
+## 📸 Screenshot
+
+![Screenshot of Random Quote Generator](./screenshot.png)
+
 ## 🚀 Run it locally
 
 ```bash
@@ -17,7 +21,3 @@ npm install
 
 # run the quote generator
 npx tsx quote.ts
-
-## 📸 Screenshot
-
-![Screenshot of Random Quote Generator](./screenshot.png)
