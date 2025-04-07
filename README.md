@@ -9,6 +9,9 @@ A simple yet slick **Random Quote Generator** built in TypeScript, powered by No
 - Fully written in TypeScript
 - Built with ❤️ in a GitHub Codespace
 
+> Inspired by a random convo about TypeScript today.  
+> Guess I finally gave in. Glad I did 😄
+
 ## 📸 Screenshot
 
 ![Screenshot of Random Quote Generator](./screenshot.png)
